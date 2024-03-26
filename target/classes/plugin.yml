@@ -1,0 +1,16 @@
+name: chunked
+version: '1.1'
+main: me.danrom.chunked.Chunked
+api-version: '1.20'
+author: danrom
+commands:
+  setinterval:
+    description: -1 or 0 to disable the plugin. Everything above enables the plugin and sets the time in ticks.
+  showresult:
+    description: shows the result of deleting chunks in chat.
+  hideresult:
+    description: hides the result of deleting chunks in chat.
+
+
+
+
